@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on some cool ideas! 📈
 - 🌱 I’m currently learning JavaScript, React and MongoDB 🤣
 - 👯 I’m looking to collaborate on other projects.
-- 🎯 Goals 2020: Contribute to more projects as I've finished TOP bootcamp.
+- 🎯 Goals 2022: Contribute to more projects as I've finished TOP bootcamp.
 - ⚡ Fun fact: I love to draw.
 
 ### Connect with me:
