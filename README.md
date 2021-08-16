@@ -1,4 +1,4 @@
-### Hi there, I'm Runjie Chen - a Junior Developer 👋
+### Hi there, I'm Arstix - a Junior Developer 👋
 
 
 ## I'm a passionate self-taught developer!!
